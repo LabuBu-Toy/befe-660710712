@@ -1,4 +1,4 @@
-module week5-lab2
+module week5-lab1
 
 go 1.25.0
 

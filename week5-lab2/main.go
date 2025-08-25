@@ -1,4 +1,4 @@
-package main
+package week5_lab2
 
 import (
 	"github.com/gin-gonic/gin"

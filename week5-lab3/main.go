@@ -1,4 +1,4 @@
-package main
+package week5_lab3
 
 import (
 	"fmt"
